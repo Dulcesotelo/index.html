@@ -1,7 +1,7 @@
 # La reforestacion
 # TÉCNICAS Y MÉTODOS DE INVESTIGACION DIGITAL 
 
-![image](https://github.com/user-attachments/assets/d5d82600-4b13-49eb-be94-998b061e5260)
+# ![image](https://github.com/user-attachments/assets/d5d82600-4b13-49eb-be94-998b061e5260)
 
 Cuidado del entorno ‘’Reforestación’’
 Instrucciones: Intégrate en parejas e investiga en al menos tres fuentes distintas, 
@@ -35,7 +35,7 @@ D)Tipos de Reforestación
 E) Pasos en el proceso de reforestación
 Los pasos de la reforestación incluyen:
 
-![image](https://github.com/user-attachments/assets/ac86c6bd-dd99-4ef1-8a8f-b0d009625094)
+# ![image](https://github.com/user-attachments/assets/ac86c6bd-dd99-4ef1-8a8f-b0d009625094)
 
 
 # 1. Conocer el terreno: Estudiar el clima, el suelo, la fauna y flora autóctona
@@ -53,7 +53,7 @@ que llegue la época adversa
 8. Proteger las plantas: Colocar una cerca alrededor de los árboles recién 
 plantados para evitar que los dañen animales
 
-![image](https://github.com/user-attachments/assets/bd86e059-6d0f-4bab-999e-8c38df970733)
+# ![image](https://github.com/user-attachments/assets/bd86e059-6d0f-4bab-999e-8c38df970733)
 
 
 # F) Posición del estado de Querétaro con respecto a la Reforestación
@@ -135,7 +135,7 @@ La reforestación es una forma importante de cuidar el medio ambiente. Al planta
 # José Emiliano Alfaro Garfias
 Reforestar es una manera de devolverle algo bueno a la naturaleza. Los árboles ayudan a que el mundo sea más fresco, limpio y lleno de vida. Si todos ponemos de nuestra parte, podemos recuperar muchas áreas dañadas y hacer del planeta un lugar mejor para vivir.
 
-![image](https://github.com/user-attachments/assets/aae64551-d3ae-4f30-99a9-771f4fcbf456)
+# ![image](https://github.com/user-attachments/assets/aae64551-d3ae-4f30-99a9-771f4fcbf456)
 
 
 # J) Agrega 3 fuentes de información en formato APA
