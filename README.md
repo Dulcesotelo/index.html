@@ -139,7 +139,9 @@ reforestar, es fundamental evaluar las condiciones del terreno y seleccionar
 especies adecuadas al suelo. 
 
 # Dulce María Hernández Sotelo
-La reforestación es una forma importante de cuidar el medio ambiente. Al plantar árboles, ayudamos a limpiar el aire, conservar el agua y proteger a los animales. Es una acción sencilla pero poderosa que mejora la vida de todos y ayuda a tener un planeta más sano.
+La reforestación es algo demasiado importante para el futuro de nuestro planeta. Sin árboles, no tendríamos oxígeno, y la verdad es que estamos perdiendo demasiados bosques a un ritmo alarmante.
+Reforestar no solo ayuda a limpiar el aire y a combatir el cambio climático, sino que también protege la biodiversidad y previene la erosión del suelo. Además, los bosques son hábitats naturales para muchas especies que dependen de ellos para sobrevivir.
+Si no hacemos algo al respecto, las consecuencias pueden ser devastadoras. Así que, ¡hagamos algo! Podemos empezar plantando árboles en nuestro barrio o uniéndonos a grupos que trabajen en reforestación. Cada pequeño esfuerzo cuenta, y juntos podemos hacer una gran diferencia.
 
 # José Emiliano Alfaro Garfias
 Reforestar es una manera de devolverle algo bueno a la naturaleza. Los árboles ayudan a que el mundo sea más fresco, limpio y lleno de vida. Si todos ponemos de nuestra parte, podemos recuperar muchas áreas dañadas y hacer del planeta un lugar mejor para vivir.
