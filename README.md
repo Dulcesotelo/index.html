@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 </head>
@@ -128,7 +128,7 @@ poco. Muchas veces no nos damos cuenta del impacto que tiene la
 reforestación hasta que enfrentamos problema de cambios climáticos, la 
 pérdida de biodiversidad y la escasez de agua.
 
- # Paz Vargas Cesar Vladimir 
+# Paz Vargas Cesar Vladimir 
 La reforestación es una práctica fundamental para el cuidado del entorno, 
 que implica la plantación de árboles y otras especies vegetales en áreas
 deforestadas. Esta acción tiene múltiples ventajas como la conservación del 
