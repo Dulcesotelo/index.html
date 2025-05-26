@@ -1,11 +1,12 @@
 # La reforestacion
 # TÉCNICAS Y MÉTODOS DE INVESTIGACION DIGITAL 
+
+![image](https://github.com/user-attachments/assets/d5d82600-4b13-49eb-be94-998b061e5260)
+
 Cuidado del entorno ‘’Reforestación’’
 Instrucciones: Intégrate en parejas e investiga en al menos tres fuentes distintas, 
 información relacionada a la importancia del cuidado del entorno 
 ‘’Reforestación’’ a nivel estatal considerado los siguientes elementos:
-<img src=" ![Uploading image.png…]">
-
 
 # A)¿Qué es el cuidado del entorno ‘’Reforestación’’?
 El cuidado de la reforestación implica proteger a los árboles de amenazas, 
@@ -34,6 +35,9 @@ D)Tipos de Reforestación
 E) Pasos en el proceso de reforestación
 Los pasos de la reforestación incluyen:
 
+![image](https://github.com/user-attachments/assets/ac86c6bd-dd99-4ef1-8a8f-b0d009625094)
+
+
 # 1. Conocer el terreno: Estudiar el clima, el suelo, la fauna y flora autóctona
 
 2. Definir la especie: Elegir el tipo de planta que se va a sembrar3. Desmalezar: Eliminar la maleza o yerba4. Diseñar la plantación: Determinar cómo se van a sembrar los árboles
@@ -48,6 +52,9 @@ que llegue la época adversa
 
 8. Proteger las plantas: Colocar una cerca alrededor de los árboles recién 
 plantados para evitar que los dañen animales
+
+![image](https://github.com/user-attachments/assets/bd86e059-6d0f-4bab-999e-8c38df970733)
+
 
 # F) Posición del estado de Querétaro con respecto a la Reforestación
 Querétaro tiene una posición activa y pro-reforestación, implementado 
@@ -100,7 +107,7 @@ Hacer brechas cortafuego alrededor de la reforestación
 Agregar agua al árbol después de plantarlo
 
 # I) Conclusiones personales acerca del tema 
-Rangel Pérez Melissa Romina
+# Rangel Pérez Melissa Romina
 La reforestación es una herramienta poderosa para combatir los efectos 
 negativos que hemos causado nosotros los seres humanos en el medio 
 ambiente. Al plantar árboles no solo ayudamos en nuestro entorno, sino que 
@@ -111,7 +118,8 @@ importancia del medio ambiente y cuanto lo estamos destruyendo poco a
 poco. Muchas veces no nos damos cuenta del impacto que tiene la 
 reforestación hasta que enfrentamos problema de cambios climáticos, la 
 pérdida de biodiversidad y la escasez de agua.
-Paz Vargas Cesar Vladimir 
+
+ # Paz Vargas Cesar Vladimir 
 La reforestación es una práctica fundamental para el cuidado del entorno, 
 que implica la plantación de árboles y otras especies vegetales en áreas
 deforestadas. Esta acción tiene múltiples ventajas como la conservación del 
@@ -120,6 +128,15 @@ producción de oxígeno. Es importante destacar que la reforestación es un
 proceso que requiere compromiso y responsabilidad a largo plaza. Antes de 
 reforestar, es fundamental evaluar las condiciones del terreno y seleccionar 
 especies adecuadas al suelo. 
+
+# Dulce María Hernández Sotelo
+La reforestación es una forma importante de cuidar el medio ambiente. Al plantar árboles, ayudamos a limpiar el aire, conservar el agua y proteger a los animales. Es una acción sencilla pero poderosa que mejora la vida de todos y ayuda a tener un planeta más sano.
+
+# José Emiliano Alfaro Garfias
+Reforestar es una manera de devolverle algo bueno a la naturaleza. Los árboles ayudan a que el mundo sea más fresco, limpio y lleno de vida. Si todos ponemos de nuestra parte, podemos recuperar muchas áreas dañadas y hacer del planeta un lugar mejor para vivir.
+
+![image](https://github.com/user-attachments/assets/aae64551-d3ae-4f30-99a9-771f4fcbf456)
+
 
 # J) Agrega 3 fuentes de información en formato APA
 1 Reforestamos México A.C. (s.f.). Reforestamos México. Recuperado de 
