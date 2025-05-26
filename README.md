@@ -1,12 +1,21 @@
-# La reforestacion
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body style="background-color: green;">
+  <h1>Bienvenido a mi página</h1>
+</body>
+</html>
+<!DOCTYPE html>
+
+# La reforestacion 
 # TÉCNICAS Y MÉTODOS DE INVESTIGACION DIGITAL 
-
-# ![image](https://github.com/user-attachments/assets/d5d82600-4b13-49eb-be94-998b061e5260)
-
 Cuidado del entorno ‘’Reforestación’’
 Instrucciones: Intégrate en parejas e investiga en al menos tres fuentes distintas, 
 información relacionada a la importancia del cuidado del entorno 
 ‘’Reforestación’’ a nivel estatal considerado los siguientes elementos:
+
+ ![image](https://github.com/user-attachments/assets/d5d82600-4b13-49eb-be94-998b061e5260)
 
 # A)¿Qué es el cuidado del entorno ‘’Reforestación’’?
 El cuidado de la reforestación implica proteger a los árboles de amenazas, 
