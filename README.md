@@ -4,7 +4,7 @@ Cuidado del entorno ‘’Reforestación’’
 Instrucciones: Intégrate en parejas e investiga en al menos tres fuentes distintas, 
 información relacionada a la importancia del cuidado del entorno 
 ‘’Reforestación’’ a nivel estatal considerado los siguientes elementos:
- # <img src="https://![Uploading image.png…]()// alt="Reforestación" width="500">
+<img src=" ![Uploading image.png…]">
 
 
 # A)¿Qué es el cuidado del entorno ‘’Reforestación’’?
